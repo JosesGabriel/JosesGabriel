@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋. [Portfolio is currently live here](https://josesgabriel.github.io/portfolio/).
 
 <!--
 **JosesGabriel/JosesGabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
